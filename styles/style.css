@@ -1,0 +1,23 @@
+header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 20vh;
+  background: rgb(226, 10, 129);
+  color: black;
+}
+header button {
+  background: rgb(0, 204, 255);
+}
+header button:hover {
+  background: blue;
+}
+
+.contact {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.contact button {
+  background: rgb(0, 204, 255);
+}/*# sourceMappingURL=style.css.map */
